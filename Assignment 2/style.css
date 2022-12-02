@@ -1,0 +1,25 @@
+table{
+    border: solid black 5px;
+}
+td{
+    border: solid red 1px;
+}
+thead{
+    border: blue 1px;
+}
+.second-table{
+    background-color: bisque;
+    color: black;
+
+}
+.third-table{
+    border: black 1px;
+    background-color: grey;
+    color: green;
+}
+.third-table th{
+    background-color: grey;
+}
+.third-table td{
+    border: none;
+}
